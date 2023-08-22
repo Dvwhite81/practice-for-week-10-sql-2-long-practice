@@ -1,5 +1,4 @@
 -- Find All the Toys for Hermione's cats
--- Your code here
 /*
 SELECT toys.name FROM toys
     JOIN cats ON (toys.cat_id = cats.id)
